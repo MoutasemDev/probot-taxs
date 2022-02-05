@@ -40,6 +40,7 @@ const tax = require('probot-taxs');
 
 tax.specific(amount,interest,true)//true will accept amount like this 1.7m or 100k
 /*
+console.log(tax.specific("70k","5000",true))
 -> output
 
 { 
