@@ -1,0 +1,22 @@
+{
+  "name": "probot-taxs",
+  "version": "1.0.0",
+  "description": "count probot tax or tax with a middleman(wasit) or with interest for the middleman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoutasemMK/probot-taxs.git"
+  },
+  "keywords": [
+    "probot","proBot tax","probot taxs","tax probot"
+  ],
+  "author": "MoutasemMK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoutasemMK/probot-taxs/issues"
+  },
+  "homepage": "https://github.com/MoutasemMK/probot-taxs#readme"
+}
