@@ -19,6 +19,7 @@ module.exports = {
       throw new Error("Please provide valid numbers");
     }
 
+    
     const taxnumber = calculateTax(number);
     const wasit = calculateTax(taxnumber);
     const taxx = calculateTax(number + number2);
