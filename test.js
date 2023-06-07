@@ -2,7 +2,7 @@ const tax = require("./index")
 
 
 console.log(tax.specific("70k","5000",true))// without true will give a erorr or type 700000
-const result = tax.tax("1.7m",true)//without true will give a erorr or type 1700000
+const result = tax.tax("17.655m",true)//without true will give a erorr or type 1700000
 if(result){
     console.log(result)
 }
