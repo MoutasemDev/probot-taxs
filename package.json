@@ -1,6 +1,6 @@
 {
   "name": "probot-taxs",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "count probot tax or tax with a middleman(wasit) or with interest for the middleman",
   "main": "index.js",
   "scripts": {
